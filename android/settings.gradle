@@ -1,0 +1,3 @@
+rootProject.name = 'RNAganCliTest'
+
+include ':app'
